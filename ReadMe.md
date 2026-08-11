@@ -18,6 +18,6 @@ Solving problems with software, making the life clean and easy
 [![PFE](https://github-readme-stats.shion.dev/api/pin/?username=Projetos-de-Extensao&repo=PFE_25.2_8002_V&theme=shadow_red&hide_border=true&text_color=f8f9fa&cache_seconds=1)](https://github.com/Projetos-de-Extensao/PFE_25.2_8002_V)
 
 ---
-[![](https://komarev.com/ghpvc/?username=caio-ximenes&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=caio-ximenes&color=ff1709&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
